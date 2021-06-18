@@ -2,7 +2,7 @@
   "name": "reactniceresume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "http://./",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -44,5 +44,17 @@
   },
   "devDependencies": {
     "chokidar": "^3.5.1"
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chorvick/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chorvick/portfolio/issues"
   }
 }
