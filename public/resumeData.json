@@ -70,34 +70,43 @@
     "skills": [
       {
         "name": "Html",
+        "level": "80%"
+      },
+      {
+        "name": "Css",
         "level": "60%"
       },
       {
-        "name": "Css"
+        "name": "Javascript",
+        "level": "90%"
       },
       {
-        "name": "Javascript"
+        "name": "React",
+        "level": "40%"
       },
       {
-        "name": "React"
+        "name": "Nodejs",
+        "level": "90%"
       },
       {
-        "name": "Nodejs"
+        "name": "Express",
+        "level": "75%"
       },
       {
-        "name": "Express"
+        "name": "MySql",
+        "level": "60%"
       },
       {
-        "name": "MySql"
+        "name": "MogoDb",
+        "level": "50%"
       },
       {
-        "name": "MogoDb"
+        "name": "PWA's",
+        "level": "40%"
       },
       {
-        "name": "PWA's"
-      },
-      {
-        "name": "MERN"
+        "name": "MERN",
+        "level": "50%"
       }
     ]
   },
