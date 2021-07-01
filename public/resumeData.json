@@ -61,7 +61,7 @@
         "description": "Service customers.  Maintained aggressive sales goals. Traveled to different locations to develop business clients."
       },
       {
-        "company": "pringleaf Financial Services, Southeastern Pa.",
+        "company": "Springleaf Financial Services, Southeastern Pa.",
         "title": "District Manager",
         "years": "June 2004 - March 2012",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
@@ -119,16 +119,16 @@
         "url": "https://salty-harbor-76521.herokuapp.com/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Employee Directory",
+        "category": "My introduction to react",
+        "image": "s1.png",
+        "url": "https://chorvick.github.io/employeedirectory/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "03.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Workout Tracker",
+        "category": "Website built using mongodb for fitness",
+        "image": "s2.png",
+        "url": "https://sleepy-badlands-97346.herokuapp.com/?id=6085bf8d63253500151c026f"
       },
       {
         "title": "Resume Website",
