@@ -4,7 +4,7 @@
     "description": "I am a recent graduate of the UPenn Full Stack Web Development bootcamp",
     "image": "111.jpg",
     "bio": "Building experience in many technologies. Including but not limited to: Html, Css, Javascript, Nodejs, Express, Sql, MongoDb, React, Jquery",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "My contact information: ",
     "email": "chorvickprocode@gmail.com",
     "phone": "610-453-8906",
     "github": "https://github.com/chorvick",
@@ -15,7 +15,7 @@
       "state": "De",
       "zip": "19803"
     },
-    "website": "",
+    "website": "https://portfolioch.herokuapp.com/",
     "resumedownload": "",
     "social": [
       {
