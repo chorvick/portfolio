@@ -1,16 +1,16 @@
 {
   "main": {
     "name": "Cliff Horvick",
-    "description": "I am a recent graduate of the UPenn Full Stack Web Development bootcamp",
+    "description": "I am a recent graduate of the UPenn Full Stack Web Development bootcamp. Currently taking a course in devops.",
     "image": "111.jpg",
-    "bio": "Building experience in many technologies. Including but not limited to: Html, Css, Javascript, Nodejs, Express, Sql, MongoDb, React, Jquery",
+    "bio": "Building experience in many technologies. Including but not limited to: Python, Linux, Html, Css, Javascript, Nodejs, Express, Sql, MongoDb, React, ",
     "contactmessage": "My contact information: ",
     "email": "chorvickprocode@gmail.com",
     "phone": "610-453-8906",
     "github": "https://github.com/chorvick",
     "project": "https://github.com/chorvick",
     "address": {
-      "street": "203 McDaniel Ave",
+      "street": "Mcdanielel Ave",
       "city": "Wilmington",
       "state": "De",
       "zip": "19803"
@@ -80,6 +80,14 @@
         "name": "Javascript",
         "level": "90%"
       },
+      {
+        "name": "Python Virtual Environments",
+        "level": "50%"
+      },
+      {
+        "name": "Linux",
+        "level": "55%"
+      }
       {
         "name": "React",
         "level": "40%"
